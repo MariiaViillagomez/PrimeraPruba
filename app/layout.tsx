@@ -1,5 +1,5 @@
-import '@/app/ui/global.css';
-import {inter} from '@/app/ui/fonts';
+import '@/app/uiAdmin/global.css';
+import {inter} from '@/app/uiAdmin/fonts';
 
 export default function RootLayout({
   children,
